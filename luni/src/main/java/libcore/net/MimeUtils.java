@@ -351,6 +351,10 @@ public final class MimeUtils {
         add("video/x-sgi-movie", "movie");
         add("x-conference/x-cooltalk", "ice");
         add("x-epoc/x-sisx-app", "sisx");
+        add("application/acsm", "acsm");
+
+
+
         add("video/mpeg", "vob");
         add("video/mpeg", "ts");
         add("video/x-flv", "f4v");
